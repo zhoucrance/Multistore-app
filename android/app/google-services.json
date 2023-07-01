@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927205410045",
+    "project_id": "onhigh-store",
+    "storage_bucket": "onhigh-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927205410045:android:53a6048279fb5259ca2a94",
+        "android_client_info": {
+          "package_name": "com.example.multi_store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927205410045-1hi41cele412vjfm2k6or1b15cv6tfnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUOcD4mPEknPOzAV5kSpf5jrPFf1guxC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927205410045-1hi41cele412vjfm2k6or1b15cv6tfnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
